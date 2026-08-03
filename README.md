@@ -2,7 +2,7 @@
 Simplifying ML algorithms into easy-to-read sheets 
 
  # 1 - Supervised Machine Learning 
-- [Logistic Regression](Logistic Regression Explained.pdf) 
+- [Logistic Regression](Logistic%20Regression%20Explained.pdf) 
 - Naive Bayes
 - Decision Trees 
 
