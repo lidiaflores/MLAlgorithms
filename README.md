@@ -4,7 +4,7 @@ These sheets are meant to be higher level and simplistic, serving as a point of 
 
  # 1 - Supervised Machine Learning 
 - [Logistic Regression](Logistic%20Regression%20Explained.pdf) 
-- Naive Bayes
+- [Naive Bayes](Naive%20Bayes%20Explained.pdf) 
 - Decision Trees 
 
  # 2 - Unsupervised Machine Learning 
